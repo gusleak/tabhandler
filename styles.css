@@ -1,0 +1,52 @@
+html
+{
+	min-height: 50px;
+	min-width: 50px;
+	margin-left: 30px;
+}
+
+body
+{
+	
+	background-color: #1E4F4F;
+	color: #DBECEC;
+	margin: 5px;
+	padding: 5px;
+	position: relative;
+	vertical-align: left;
+	-webkit-text-size-adjust: none;
+}
+
+ol
+{
+	outline: none;
+	margin: 5px;
+	padding: 5px;
+	line-height: 2px;
+	display: block; 
+	display: inline; 
+	white-space: nowrap;
+	overflow: hidden; 
+}
+
+li
+{
+	margin: 5px;
+	padding: 5px;
+	margin-bottom: 20px;
+}
+
+pre
+{
+	margin: 4px;
+	padding: 4px;
+}
+
+button
+{
+	margin: 1px;
+	float: right;
+	background-color: #8B0000;
+	color: #fdfaee;
+	cursor: pointer;
+}
