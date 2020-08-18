@@ -8,5 +8,5 @@ Actions include:
 - Copy selected to clipboard
 - Clear list.
 
-**Chrome Web Store link for downloading:**\
+**Chrome Web Store link to download:**\
 https://chrome.google.com/webstore/detail/tabhandler/efahmikchohhhcedpcfccfolmamlcfgp?hl=en-US
