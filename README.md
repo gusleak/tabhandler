@@ -1,5 +1,5 @@
 # TabHandler
-A chrome extension aiming to support tab navigation and tab organizing.
+A chrome extension aiming to support tab navigation and organizing.
 
 Flip tabs left - right with Ctrl + Shift + Left / Right. Click icon for an overview of opened tabs (titles + URLs).
 
